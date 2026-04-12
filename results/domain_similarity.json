@@ -1,0 +1,13 @@
+{
+  "corpus_sample_n": 100,
+  "domain_sample_n": 50,
+  "seed": 42,
+  "safe_threshold": 0.2241,
+  "attack_threshold": 0.4513,
+  "domain_similarities": {
+    "Academic economics prose": 0.2664,
+    "Wikipedia": 0.2314,
+    "Casual personal finance": 0.2280,
+    "PubMed general biology": 0.2233
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "wmdp_bio": {
+    "entropy_bits": 7.30,
+    "top5_coverage": 0.05,
+    "n_sentences": 500,
+    "unique_skeletons": 487
+  },
+  "wmdp_cyber": {
+    "entropy_bits": 8.55,
+    "top5_coverage": 0.10,
+    "n_sentences": 500,
+    "unique_skeletons": 493
+  },
+  "tofu_full": {
+    "entropy_bits": 7.62,
+    "top5_coverage": 0.035,
+    "n_sentences": 200,
+    "unique_skeletons": 198
+  },
+  "tofu_name_format": {
+    "entropy_bits": 2.95,
+    "top5_coverage": 0.667,
+    "n_sentences": 9,
+    "unique_skeletons": 8
+  }
+}
