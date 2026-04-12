@@ -52,10 +52,3 @@ The WMDP-Bio forget corpus is gated: https://huggingface.co/datasets/cais/wmdp-b
 
 - Scripts 1-3: CPU, runs in Google Colab
 - Scripts 4-5: GPU required (A100 80GB recommended), designed for RunPod
-
-## Citation
-
-If you use this code, please also cite:
-
-- Yoon et al. (2026). Syntactic similarity drives benign relearning in unlearned LLMs. ICLR 2026. arXiv:2602.03379
-- Li et al. (2024). The WMDP benchmark. ICML 2024. arXiv:2403.03218
