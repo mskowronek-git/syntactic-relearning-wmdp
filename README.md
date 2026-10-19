@@ -2,8 +2,7 @@
 
 ## Research write-up
 
-**I describe the motivation, methods, and findings in [Does Syntactic Relearning Threaten WMDP-Unlearned Models?](YOUR_SUBSTACK_URL). This repository contains the code and data for the analysis.
-**
+I describe the motivation, methods, and findings in [Does Syntactic Relearning Threaten WMDP-Unlearned Models?](YOUR_SUBSTACK_URL). This repository contains the code and data for the analysis.
 
 Main interpretation: WMDP’s forget corpora have more varied sentence structures than the rigid subset of TOFU targeted by the attack. This makes accidental relearning through normally distributed fine-tuning data unlikely to reproduce the attack’s required templates. This is not a guarantee against every relearning method or a test of deliberate attacks on WMDP.
 
